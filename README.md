@@ -27,7 +27,3 @@ The app can also be easily deployed on AWS Elastic Container Service. Once you h
 ```
 $ ./setup-aws-ecs.sh
 ```
-
-Learn more at [docker-curriculum](http://prakhar.me/docker-curriculum).
-# FoodTrucks_Docker
-# FoodTrucks_Docker
