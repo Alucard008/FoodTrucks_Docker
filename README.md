@@ -23,3 +23,9 @@ The app can also be easily deployed on AWS Elastic Container Service. Once you h
 ```
 $ ./setup-aws-ecs.sh
 ```
+###### To run this application on your machine
+```
+$ git clone https://github.com/Alucard008/FoodTrucks_Docker
+$ cd FoodTrucks_Docker
+$ ./setup-docker.sh
+```
